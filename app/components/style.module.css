@@ -91,6 +91,14 @@
     height: 100vh;
   }
 
+  .titulo {
+    color: #ffffff;
+    margin: 0.5rem;
+    font-size: 1rem;
+    text-shadow: -2px -2px 0 #000, 2px -2px 0 #000, -2px 2px 0 #000,
+      2px 2px 0 #000;
+  }
+
   .grid {
     grid-template-columns: repeat(8, 30px);
     grid-template-rows: repeat(8, 30px);
@@ -99,9 +107,11 @@
   .pieceTop {
     width: 15px;
     height: 15px;
+    background-size: 15px;
   }
   .pieceBottom {
     width: 15px;
     height: 15px;
+    background-size: 15px;
   }
 }
