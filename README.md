@@ -11,7 +11,8 @@
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-como-rodar">Como Rodar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-estilizacao">Estilização</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-estilização">Estilização</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-link-do-projeto">Link do Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-licenca">Licença</a>
 </p>
 
@@ -86,6 +87,12 @@ Esse projeto foi desenvolvido utilizando:
 - **Imagem de Fundo:** Aplicada na `.container` para melhorar a estética.
 - **Título Personalizado:** Adicionada borda preta ao texto para melhor visibilidade.
 - **Inspiração Harry Potter:** As peças representam **Grifinória** e **Sonserina**, adicionando um tema mágico ao jogo. 🦁🐍
+
+---
+
+## 🔗 Link do Projeto
+
+Para acessar o projeto <a href="https://tabuleiro-de-dama.vercel.app/" target="_blank" style="color: #4a5dcd;">Clique Aqui</a>.
 
 ---
 
