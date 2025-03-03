@@ -3,10 +3,12 @@
 </h1>
 
 <p align="center">
-  🏁 <strong>Tabuleiro de Damas</strong> desenvolvido com Next.js e estilizado com CSS Modules.
+  🏁 <strong>Tabuleiro de Damas</strong> desenvolvido com Next.js e estilizado com CSS Modules.<br>
   Este projeto apresenta um tabuleiro de damas responsivo e estilizado, implementado com Next.js e CSS Modules. Ele exibe as peças corretamente posicionadas, sem interatividade, mas com efeitos visuais diferenciados.
+</p>
 
-As peças foram inspiradas nas casas **Grifinória** e **Sonserina** de Harry Potter, trazendo um toque especial ao design do tabuleiro. 🦁🐍
+<p align="center">
+  As peças foram inspiradas nas casas <strong>Grifinória</strong> e <strong>Sonserina</strong> de Harry Potter, trazendo um toque especial ao design do tabuleiro. 🦁🐍
 </p>
 
 <p align="center">
@@ -24,17 +26,16 @@ As peças foram inspiradas nas casas **Grifinória** e **Sonserina** de Harry Po
 ---
 
 ## 📂 Projeto
+
 <p align="center">💻 <b>Para PC:</b></p>
 <p align="center">
   <img alt="Projeto para PC" src="https://github.com/user-attachments/assets/388674a6-9139-4147-bb0f-62e59f1fae97" width="800px">
 </p>
 
+<p align="center">📱 Para Celular:</b></p>
 <p align="center">
   <img alt="Projeto para Celular" src="https://github.com/user-attachments/assets/eb8bddb3-2bcd-40da-b1b2-2fde22351c80" width="300px">
-</p> -->
-
-
-
+</p>
 
 ---
 
@@ -52,12 +53,12 @@ Esse projeto foi desenvolvido utilizando:
 
 1. Clone este repositório:
 ```bash
-  git clone https://github.com/seu-usuario/nome-do-repositorio.git
+  git clone https://github.com/andrrade/tabuleiro-de-dama.git
 ```
 
 2. Acesse a pasta do projeto:
 ```bash
-  cd nome-do-repositorio
+  cd tabuleiro-de-dama
 ```
 
 3. Instale as dependências:
@@ -74,7 +75,7 @@ Esse projeto foi desenvolvido utilizando:
   yarn dev
 ```
 
-5. Acesse [http://localhost:3000](http://localhost:3000) no navegador.
+5. Acesse [http://localhost:3000](http://localhost:3000) no navegador ou dê um CTRL + clique no link que aparecer.
 
 ---
 
@@ -96,5 +97,6 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](./LICENSE) para 
 <br>
 
 <p align="center">
-  <img alt="Next.js" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" width="120px" />
+  <img alt="Next.js" src="" width="120px" />
 </p>
+
