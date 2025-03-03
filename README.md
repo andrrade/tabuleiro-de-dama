@@ -1,13 +1,9 @@
 <h1 align="center">
-  <img alt="Logo" src="https://github.com/user-attachments/assets/33127fea-30b7-445c-a3d6-44cc818193af" width="350px" >
+  <img alt="Logo" src="https://github.com/user-attachments/assets/12581a49-e07c-4950-94a9-267d010995ef" width="350px" >
 </h1>
 
 <p align="center">
-  🏁 <strong>Tabuleiro de Damas</strong> desenvolvido com Next.js e estilizado com CSS Modules.<br>
-  Este projeto apresenta um tabuleiro de damas responsivo e estilizado, implementado com Next.js e CSS Modules. Ele exibe as peças corretamente posicionadas, sem interatividade, mas com efeitos visuais diferenciados.
-</p>
-
-<p align="center">
+  Este projeto apresenta um Tabuleiro de Dama responsivo e estilizado, implementado com Next.js e CSS Modules. Ele exibe as peças corretamente posicionadas, sem interatividade, mas com efeitos visuais diferenciados. <br><br>
   As peças foram inspiradas nas casas <strong>Grifinória</strong> e <strong>Sonserina</strong> de Harry Potter, trazendo um toque especial ao design do tabuleiro. 🦁🐍
 </p>
 
@@ -29,12 +25,12 @@
 
 <p align="center">💻 <b>Para PC:</b></p>
 <p align="center">
-  <img alt="Projeto para PC" src="https://github.com/user-attachments/assets/388674a6-9139-4147-bb0f-62e59f1fae97" width="800px">
+  <img alt="Projeto para PC" src="https://github.com/user-attachments/assets/52ff3f49-0da1-438c-af0b-2cd685c0ab4b" width="800px">
 </p>
 
 <p align="center">📱 Para Celular:</b></p>
 <p align="center">
-  <img alt="Projeto para Celular" src="https://github.com/user-attachments/assets/eb8bddb3-2bcd-40da-b1b2-2fde22351c80" width="300px">
+  <img alt="Projeto para Celular" src="https://github.com/user-attachments/assets/85514cb9-4162-4bfe-ae2c-5cdf05f594a7" width="300px">
 </p>
 
 ---
@@ -45,23 +41,25 @@ Esse projeto foi desenvolvido utilizando:
 
 - ⚡ **Next.js** - Framework React para aplicações web rápidas.
 - 🎨 **CSS Modules** - Modularização dos estilos.
-- 📏 **Flexbox e Grid** - Para organização do layout.
 
 ---
 
 ## ▶️ Como Rodar
 
 1. Clone este repositório:
+
 ```bash
   git clone https://github.com/andrrade/tabuleiro-de-dama.git
 ```
 
 2. Acesse a pasta do projeto:
+
 ```bash
   cd tabuleiro-de-dama
 ```
 
 3. Instale as dependências:
+
 ```bash
   npm install
   # ou
@@ -69,6 +67,7 @@ Esse projeto foi desenvolvido utilizando:
 ```
 
 4. Execute o servidor de desenvolvimento:
+
 ```bash
   npm run dev
   # ou
@@ -97,6 +96,5 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](./LICENSE) para 
 <br>
 
 <p align="center">
-  <img alt="Next.js" src="" width="120px" />
+  <img alt="Next.js" src="app/assets/logo-nextjs.svg" width="120px" />
 </p>
-
